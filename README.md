@@ -44,4 +44,4 @@ The script expects two CSV files:
 
 ## Model
 
-The primary model is an LSTM neural network for time series forecasting. The trained model is saved as `energy_prediction_model.pth`. 
+The primary model is an LSTM neural network for time series forecasting. The trained model is saved as `energy_prediction_model.pth`.
